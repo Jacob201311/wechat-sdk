@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.model.menu;
+package com.wechat.connect.sdk.model.menu;
 
 public class Button {
 

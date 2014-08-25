@@ -1,9 +1,9 @@
-package com.augmentum.wechat.connect.sdk.model.message;
+package com.wechat.connect.sdk.model.message;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.common.constant.Constants;
 
 public class NewsMessage extends Message {
 

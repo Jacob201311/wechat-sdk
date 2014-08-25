@@ -1,8 +1,8 @@
-package com.augmentum.wechat.connect.sdk.model.message;
+package com.wechat.connect.sdk.model.message;
 
 import java.io.Serializable;
 
-import com.augmentum.wechat.connect.sdk.util.CommonUtil;
+import com.wechat.connect.sdk.util.CommonUtil;
 
 public class NewsItem implements Serializable {
 

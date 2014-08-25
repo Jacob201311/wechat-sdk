@@ -1,15 +1,15 @@
-package com.augmentum.wechat.connect.sdk.api;
+package com.wechat.connect.sdk.api;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
-import com.augmentum.wechat.connect.sdk.common.exception.WechatSDKException;
-import com.augmentum.wechat.connect.sdk.model.common.Authorization;
-import com.augmentum.wechat.connect.sdk.model.common.Follower;
-import com.augmentum.wechat.connect.sdk.model.common.FollowerContainer;
-import com.augmentum.wechat.connect.sdk.util.PropertiesUtil;
-import com.augmentum.wechat.connect.sdk.util.RequestUtil;
+import com.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.common.exception.WechatSDKException;
+import com.wechat.connect.sdk.model.common.Authorization;
+import com.wechat.connect.sdk.model.common.Follower;
+import com.wechat.connect.sdk.model.common.FollowerContainer;
+import com.wechat.connect.sdk.util.PropertiesUtil;
+import com.wechat.connect.sdk.util.RequestUtil;
 
 public class FollowerApi extends BaseApi {
 

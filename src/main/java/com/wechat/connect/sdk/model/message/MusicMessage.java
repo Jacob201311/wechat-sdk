@@ -1,6 +1,6 @@
-package com.augmentum.wechat.connect.sdk.model.message;
+package com.wechat.connect.sdk.model.message;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.common.constant.Constants;
 
 public class MusicMessage extends Message {
 

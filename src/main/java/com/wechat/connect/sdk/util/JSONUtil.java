@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.util;
+package com.wechat.connect.sdk.util;
 
 import java.io.IOException;
 import java.util.Map;

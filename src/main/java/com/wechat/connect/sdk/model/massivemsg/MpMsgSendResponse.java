@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.model.massivemsg;
+package com.wechat.connect.sdk.model.massivemsg;
 
 import org.codehaus.jackson.annotate.JsonProperty;
 

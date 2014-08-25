@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.model.massivemsg;
+package com.wechat.connect.sdk.model.massivemsg;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.api;
+package com.wechat.connect.sdk.api;
 
 import java.io.File;
 import java.util.HashMap;
@@ -7,14 +7,14 @@ import java.util.Map;
 import org.apache.http.HttpResponse;
 import org.apache.log4j.Logger;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
-import com.augmentum.wechat.connect.sdk.common.exception.WechatSDKException;
-import com.augmentum.wechat.connect.sdk.model.common.Authorization;
-import com.augmentum.wechat.connect.sdk.model.common.Media;
-import com.augmentum.wechat.connect.sdk.model.common.MimeType;
-import com.augmentum.wechat.connect.sdk.model.massivemsg.MpNews;
-import com.augmentum.wechat.connect.sdk.util.PropertiesUtil;
-import com.augmentum.wechat.connect.sdk.util.RequestUtil;
+import com.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.common.exception.WechatSDKException;
+import com.wechat.connect.sdk.model.common.Authorization;
+import com.wechat.connect.sdk.model.common.Media;
+import com.wechat.connect.sdk.model.common.MimeType;
+import com.wechat.connect.sdk.model.massivemsg.MpNews;
+import com.wechat.connect.sdk.util.PropertiesUtil;
+import com.wechat.connect.sdk.util.RequestUtil;
 
 public class MediaApi extends BaseApi{
 

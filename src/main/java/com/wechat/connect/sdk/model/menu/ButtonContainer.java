@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.model.menu;
+package com.wechat.connect.sdk.model.menu;
 
 import java.util.ArrayList;
 import java.util.List;

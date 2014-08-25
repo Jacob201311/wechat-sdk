@@ -1,7 +1,7 @@
-package com.augmentum.wechat.connect.sdk.api;
+package com.wechat.connect.sdk.api;
 
-import com.augmentum.wechat.connect.sdk.common.exception.WechatSDKException;
-import com.augmentum.wechat.connect.sdk.util.JSONUtil;
+import com.wechat.connect.sdk.common.exception.WechatSDKException;
+import com.wechat.connect.sdk.util.JSONUtil;
 
 public abstract class BaseApi {
 

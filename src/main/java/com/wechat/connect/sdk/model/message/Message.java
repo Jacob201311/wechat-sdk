@@ -1,12 +1,12 @@
-package com.augmentum.wechat.connect.sdk.model.message;
+package com.wechat.connect.sdk.model.message;
 
 import java.io.Serializable;
 import java.util.Date;
 
 import org.w3c.dom.Document;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
-import com.augmentum.wechat.connect.sdk.util.XMLUtil;
+import com.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.util.XMLUtil;
 
 public abstract class Message implements Serializable {
 

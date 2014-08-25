@@ -1,10 +1,10 @@
-package com.augmentum.wechat.connect.sdk.util;
+package com.wechat.connect.sdk.util;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.common.constant.Constants;
 
 public class PropertiesUtil {
 

@@ -1,6 +1,6 @@
-package com.augmentum.wechat.connect.sdk.model.massivemsg;
+package com.wechat.connect.sdk.model.massivemsg;
 
-import com.augmentum.wechat.connect.sdk.util.CommonUtil;
+import com.wechat.connect.sdk.util.CommonUtil;
 
 public class MpNewsItem {
 

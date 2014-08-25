@@ -1,10 +1,10 @@
-package com.augmentum.wechat.connect.sdk.model.message;
+package com.wechat.connect.sdk.model.message;
 
 import org.w3c.dom.Document;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
-import com.augmentum.wechat.connect.sdk.util.CommonUtil;
-import com.augmentum.wechat.connect.sdk.util.XMLUtil;
+import com.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.util.CommonUtil;
+import com.wechat.connect.sdk.util.XMLUtil;
 
 public class TextMessage extends Message {
 

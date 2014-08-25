@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.api;
+package com.wechat.connect.sdk.api;
 
 import java.io.InputStream;
 import java.lang.reflect.Constructor;
@@ -10,21 +10,21 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
-import com.augmentum.wechat.connect.sdk.model.message.ImageMessage;
-import com.augmentum.wechat.connect.sdk.model.message.LinkMessage;
-import com.augmentum.wechat.connect.sdk.model.message.LocationMessage;
-import com.augmentum.wechat.connect.sdk.model.message.Message;
-import com.augmentum.wechat.connect.sdk.model.message.TextMessage;
-import com.augmentum.wechat.connect.sdk.model.message.VideoMessage;
-import com.augmentum.wechat.connect.sdk.model.message.VoiceMessage;
-import com.augmentum.wechat.connect.sdk.model.message.event.ClickEventMessage;
-import com.augmentum.wechat.connect.sdk.model.message.event.EventMessage;
-import com.augmentum.wechat.connect.sdk.model.message.event.LocationEventMessage;
-import com.augmentum.wechat.connect.sdk.model.message.event.MSendCallbackEventMessage;
-import com.augmentum.wechat.connect.sdk.model.message.event.ScanEventMessage;
-import com.augmentum.wechat.connect.sdk.model.message.event.ViewEventMessage;
-import com.augmentum.wechat.connect.sdk.util.XMLUtil;
+import com.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.model.message.ImageMessage;
+import com.wechat.connect.sdk.model.message.LinkMessage;
+import com.wechat.connect.sdk.model.message.LocationMessage;
+import com.wechat.connect.sdk.model.message.Message;
+import com.wechat.connect.sdk.model.message.TextMessage;
+import com.wechat.connect.sdk.model.message.VideoMessage;
+import com.wechat.connect.sdk.model.message.VoiceMessage;
+import com.wechat.connect.sdk.model.message.event.ClickEventMessage;
+import com.wechat.connect.sdk.model.message.event.EventMessage;
+import com.wechat.connect.sdk.model.message.event.LocationEventMessage;
+import com.wechat.connect.sdk.model.message.event.MSendCallbackEventMessage;
+import com.wechat.connect.sdk.model.message.event.ScanEventMessage;
+import com.wechat.connect.sdk.model.message.event.ViewEventMessage;
+import com.wechat.connect.sdk.util.XMLUtil;
 
 public class MessageConverterApi {
 

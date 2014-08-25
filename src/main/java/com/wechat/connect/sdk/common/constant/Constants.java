@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.common.constant;
+package com.wechat.connect.sdk.common.constant;
 
 public class Constants {
 

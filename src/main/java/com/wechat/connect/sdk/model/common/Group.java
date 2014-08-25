@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.model.common;
+package com.wechat.connect.sdk.model.common;
 
 public class Group {
 

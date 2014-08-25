@@ -1,4 +1,4 @@
-package com.augmentum.wechat.connect.sdk.common.exception;
+package com.wechat.connect.sdk.common.exception;
 
 @SuppressWarnings("serial")
 public class WechatSDKException extends Exception {

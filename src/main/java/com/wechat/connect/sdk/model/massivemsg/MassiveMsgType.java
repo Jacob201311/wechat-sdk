@@ -1,6 +1,6 @@
-package com.augmentum.wechat.connect.sdk.model.massivemsg;
+package com.wechat.connect.sdk.model.massivemsg;
 
-import com.augmentum.wechat.connect.sdk.common.exception.WechatSDKException;
+import com.wechat.connect.sdk.common.exception.WechatSDKException;
 
 public enum MassiveMsgType {
 

@@ -1,16 +1,16 @@
-package com.augmentum.wechat.connect.sdk.api;
+package com.wechat.connect.sdk.api;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.augmentum.wechat.connect.sdk.common.constant.Constants;
-import com.augmentum.wechat.connect.sdk.common.exception.WechatSDKException;
-import com.augmentum.wechat.connect.sdk.model.common.Authorization;
-import com.augmentum.wechat.connect.sdk.model.menu.Button;
-import com.augmentum.wechat.connect.sdk.util.JSONUtil;
-import com.augmentum.wechat.connect.sdk.util.PropertiesUtil;
-import com.augmentum.wechat.connect.sdk.util.RequestUtil;
+import com.wechat.connect.sdk.common.constant.Constants;
+import com.wechat.connect.sdk.common.exception.WechatSDKException;
+import com.wechat.connect.sdk.model.common.Authorization;
+import com.wechat.connect.sdk.model.menu.Button;
+import com.wechat.connect.sdk.util.JSONUtil;
+import com.wechat.connect.sdk.util.PropertiesUtil;
+import com.wechat.connect.sdk.util.RequestUtil;
 
 public class MenuApi extends BaseApi {
 
